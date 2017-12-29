@@ -21,7 +21,7 @@
     "animate.css": "^3.5.2",
     "animejs": "^2.2.0",
     "aos": "^2.2.0",
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.22.0",
     "browser-sync-webpack-plugin": "^1.2.0",
     "collect.js": "^3.1.1",
     "cross-env": "^5.0.1",
