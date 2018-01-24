@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "axios": "^0.17.1",
-    "laravel-mix": "^1.7",
+    "laravel-mix": "^2.0",
     "lodash": "^4.17.4",
     "purify-css": "^1.2.5",
     "purifycss-webpack": "^0.7.0",
