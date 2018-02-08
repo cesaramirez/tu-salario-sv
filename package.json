@@ -16,7 +16,7 @@
     "tailwindcss": "^0.3.0"
   },
   "dependencies": {
-    "animate.css": "^3.5.2",
+    "animate.css": "^3.6.1",
     "animejs": "^2.2.0",
     "aos": "^2.2.0",
     "browser-sync": "^2.18.13",
