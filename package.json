@@ -13,7 +13,7 @@
     "axios": "^0.17.1",
     "laravel-mix": "^2.0",
     "lodash": "^4.17.4",
-    "tailwindcss": "^0.3.0"
+    "tailwindcss": "^0.4.3"
   },
   "dependencies": {
     "animate.css": "^3.5.2",
