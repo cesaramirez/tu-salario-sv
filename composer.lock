@@ -2411,16 +2411,16 @@
         },
         {
             "name": "tightenco/ziggy",
-            "version": "0.6.3",
+            "version": "0.6.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tightenco/ziggy.git",
-                "reference": "24192a275e458e49395e08e7eebd92ea33a7b48c"
+                "reference": "52eedae2f63e731ec90f71286d7e08625c0af745"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tightenco/ziggy/zipball/24192a275e458e49395e08e7eebd92ea33a7b48c",
-                "reference": "24192a275e458e49395e08e7eebd92ea33a7b48c",
+                "url": "https://api.github.com/repos/tightenco/ziggy/zipball/52eedae2f63e731ec90f71286d7e08625c0af745",
+                "reference": "52eedae2f63e731ec90f71286d7e08625c0af745",
                 "shasum": ""
             },
             "require": {
@@ -2458,7 +2458,7 @@
                 }
             ],
             "description": "Generates a Blade directive exporting all of your named Laravel routes. Also provides a nice route() helper function in JavaScript.",
-            "time": "2018-03-27T19:18:27+00:00"
+            "time": "2018-04-21T09:11:52+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
