@@ -19,7 +19,7 @@
     "animate.css": "^3.6.1",
     "animejs": "^2.2.0",
     "aos": "^2.2.0",
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.24.2",
     "browser-sync-webpack-plugin": "^2.*",
     "collect.js": "^4.0.11",
     "cross-env": "^5.0.1",
