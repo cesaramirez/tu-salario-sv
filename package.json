@@ -21,7 +21,7 @@
     "aos": "^2.2.0",
     "browser-sync": "^2.18.13",
     "browser-sync-webpack-plugin": "^2.*",
-    "collect.js": "^4.0.11",
+    "collect.js": "^4.0.17",
     "cross-env": "^5.0.1",
     "dotenv": "^5.0.0",
     "hover.css": "^2.2.1",
