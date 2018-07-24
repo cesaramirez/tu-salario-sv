@@ -816,7 +816,7 @@
                 {
                     "name": "Luís Otávio Cobucci Oblonczyk",
                     "email": "lcobucci@gmail.com",
-                    "role": "developer"
+                    "role": "Developer"
                 }
             ],
             "description": "A simple library to work with JSON Web Token and JSON Web Signature",
@@ -2535,16 +2535,16 @@
         },
         {
             "name": "tightenco/ziggy",
-            "version": "0.6.6",
+            "version": "v0.6.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tightenco/ziggy.git",
-                "reference": "52eedae2f63e731ec90f71286d7e08625c0af745"
+                "reference": "cf6dc47db14304cd6fe2b6d3fae22b411586e8dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tightenco/ziggy/zipball/52eedae2f63e731ec90f71286d7e08625c0af745",
-                "reference": "52eedae2f63e731ec90f71286d7e08625c0af745",
+                "url": "https://api.github.com/repos/tightenco/ziggy/zipball/cf6dc47db14304cd6fe2b6d3fae22b411586e8dc",
+                "reference": "cf6dc47db14304cd6fe2b6d3fae22b411586e8dc",
                 "shasum": ""
             },
             "require": {
@@ -2582,7 +2582,7 @@
                 }
             ],
             "description": "Generates a Blade directive exporting all of your named Laravel routes. Also provides a nice route() helper function in JavaScript.",
-            "time": "2018-04-21T09:11:52+00:00"
+            "time": "2018-07-06T02:53:28+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
